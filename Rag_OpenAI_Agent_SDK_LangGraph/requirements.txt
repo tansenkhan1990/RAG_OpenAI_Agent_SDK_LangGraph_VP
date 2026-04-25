@@ -1,0 +1,8 @@
+openai
+openai-agents
+langgraph
+supabase
+fastapi
+uvicorn
+python-dotenv
+requests
